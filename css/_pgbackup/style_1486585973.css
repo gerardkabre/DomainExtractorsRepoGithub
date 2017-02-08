@@ -745,7 +745,8 @@ form label
 .gtco-section
 {
     clear: both;
-    padding: 1em 5% 2em;
+    background-color: #;
+    padding: 0.5em 5% 1em;
 }
 
 @media screen and (max-width: 768px)
@@ -914,11 +915,11 @@ form label
 
 .gtco-heading p
 {
+    color: #000000;
     text-transform: none;
     text-align: center;
     line-height: 1;
-    font-size: 1em;
-    color: #000000;
+    font-size: 1.5em;
 }
 
 #gtco-testimonial
@@ -1855,7 +1856,6 @@ form label
 .moneybackp
 {
     font-weight: bold;
-    color: d56785;
 }
 
 .MessageForm

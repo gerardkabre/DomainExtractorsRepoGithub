@@ -745,7 +745,8 @@ form label
 .gtco-section
 {
     clear: both;
-    padding: 1em 5% 2em;
+    background-color: #;
+    padding: 0.5em 5% 1em;
 }
 
 @media screen and (max-width: 768px)

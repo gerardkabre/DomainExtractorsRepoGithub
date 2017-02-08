@@ -494,6 +494,7 @@ h1, h2, h3, h4, h5, h6, figure
 
 .gtco-staff img
 {
+    width: 100px;
     margin-bottom: 20px;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -745,7 +746,8 @@ form label
 .gtco-section
 {
     clear: both;
-    padding: 1em 5% 2em;
+    background-color: #;
+    padding: 3em 5% 4em;
 }
 
 @media screen and (max-width: 768px)
@@ -906,19 +908,19 @@ form label
 .gtco-heading h2
 {
     font-size: 36px;
-    margin-bottom: 5px;
+    margin-bottom: 20px;
+    line-height: 1.5;
     font-weight: bold;
     color: #D56785;
-    line-height: 1.3;
 }
 
 .gtco-heading p
 {
+    font-size: 16px;
+    color: #140026;
     text-transform: none;
     text-align: center;
-    line-height: 1;
-    font-size: 1em;
-    color: #000000;
+    line-height: 1.3;
 }
 
 #gtco-testimonial
@@ -1855,7 +1857,6 @@ form label
 .moneybackp
 {
     font-weight: bold;
-    color: d56785;
 }
 
 .MessageForm
